@@ -1,0 +1,304 @@
+小模型
+batch_size=16
+Epoch 1/10
+Train Loss: 0.8560, Train Accuracy: 0.6112
+Validation Loss: 0.6811, Validation Accuracy: 0.7150
+--------------------------------------------------
+Epoch 2/10
+Train Loss: 0.6392, Train Accuracy: 0.7456
+Validation Loss: 0.6417, Validation Accuracy: 0.7362
+--------------------------------------------------
+Epoch 3/10
+Train Loss: 0.4787, Train Accuracy: 0.8256
+Validation Loss: 0.6679, Validation Accuracy: 0.7212
+--------------------------------------------------
+Epoch 4/10
+Train Loss: 0.3394, Train Accuracy: 0.8822
+Validation Loss: 0.7272, Validation Accuracy: 0.7188
+--------------------------------------------------
+
+batch_size=32
+Epoch 1/10
+Train Loss: 0.8748, Train Accuracy: 0.6091
+Validation Loss: 0.7815, Validation Accuracy: 0.6587
+--------------------------------------------------
+Epoch 2/10
+Train Loss: 0.6977, Train Accuracy: 0.7134
+Validation Loss: 0.6525, Validation Accuracy: 0.7288
+--------------------------------------------------
+Epoch 3/10
+Train Loss: 0.5545, Train Accuracy: 0.7941
+Validation Loss: 0.6421, Validation Accuracy: 0.7163
+--------------------------------------------------
+Epoch 4/10
+Train Loss: 0.4240, Train Accuracy: 0.8541
+Validation Loss: 0.6922, Validation Accuracy: 0.7325
+--------------------------------------------------
+Epoch 5/10
+Train Loss: 0.3118, Train Accuracy: 0.8931
+Validation Loss: 0.7794, Validation Accuracy: 0.7137
+--------------------------------------------------
+Epoch 6/10
+Train Loss: 0.2265, Train Accuracy: 0.9306
+Validation Loss: 0.8110, Validation Accuracy: 0.7087
+--------------------------------------------------
+Epoch 7/10
+Train Loss: 0.1576, Train Accuracy: 0.9613
+Validation Loss: 0.8410, Validation Accuracy: 0.7013
+--------------------------------------------------
+Epoch 8/10
+Train Loss: 0.1416, Train Accuracy: 0.9666
+Validation Loss: 0.8532, Validation Accuracy: 0.6963
+--------------------------------------------------
+Epoch 9/10
+Train Loss: 0.1350, Train Accuracy: 0.9656
+Validation Loss: 0.8650, Validation Accuracy: 0.6975
+--------------------------------------------------
+Epoch 10/10
+Train Loss: 0.1331, Train Accuracy: 0.9675
+Validation Loss: 0.8739, Validation Accuracy: 0.7037
+--------------------------------------------------
+
+batch_size=64
+Epoch 1/10
+Train Loss: 0.9333, Train Accuracy: 0.5550
+Validation Loss: 0.8444, Validation Accuracy: 0.6038
+--------------------------------------------------
+Epoch 2/10
+Train Loss: 0.8056, Train Accuracy: 0.6388
+Validation Loss: 0.7142, Validation Accuracy: 0.7175
+--------------------------------------------------
+Epoch 3/10
+Train Loss: 0.6721, Train Accuracy: 0.7284
+Validation Loss: 0.6535, Validation Accuracy: 0.7375
+--------------------------------------------------
+Epoch 4/10
+Train Loss: 0.5625, Train Accuracy: 0.7878
+Validation Loss: 0.6571, Validation Accuracy: 0.7388
+--------------------------------------------------
+Epoch 5/10
+Train Loss: 0.4630, Train Accuracy: 0.8322
+Validation Loss: 0.6802, Validation Accuracy: 0.7137
+--------------------------------------------------
+
+batch_size=128
+Epoch 1/10
+Train Loss: 0.9400, Train Accuracy: 0.5837
+Validation Loss: 0.8751, Validation Accuracy: 0.6038
+--------------------------------------------------
+Epoch 2/10
+Train Loss: 0.8350, Train Accuracy: 0.6291
+Validation Loss: 0.7637, Validation Accuracy: 0.7000
+--------------------------------------------------
+Epoch 3/10
+Train Loss: 0.7289, Train Accuracy: 0.7025
+Validation Loss: 0.6957, Validation Accuracy: 0.7225
+--------------------------------------------------
+Epoch 4/10
+Train Loss: 0.6293, Train Accuracy: 0.7531
+Validation Loss: 0.6771, Validation Accuracy: 0.7225
+--------------------------------------------------
+Epoch 5/10
+Train Loss: 0.5513, Train Accuracy: 0.7944
+Validation Loss: 0.6803, Validation Accuracy: 0.7275
+--------------------------------------------------
+Epoch 6/10
+Train Loss: 0.4784, Train Accuracy: 0.8266
+Validation Loss: 0.6960, Validation Accuracy: 0.7300
+
+大模型
+batch_size=16
+Epoch 1/5
+Train Loss: 0.8463, Train Accuracy: 0.6225
+Validation Loss: 0.7038, Validation Accuracy: 0.7075
+--------------------------------------------------
+Epoch 2/5
+Train Loss: 0.6291, Train Accuracy: 0.7462
+Validation Loss: 0.6385, Validation Accuracy: 0.7175
+--------------------------------------------------
+Epoch 3/5
+Train Loss: 0.4700, Train Accuracy: 0.8153
+Validation Loss: 0.6714, Validation Accuracy: 0.7200
+--------------------------------------------------
+Epoch 4/5
+Train Loss: 0.3136, Train Accuracy: 0.8900
+Validation Loss: 0.7528, Validation Accuracy: 0.6987
+--------------------------------------------------
+Epoch 5/5
+Train Loss: 0.2004, Train Accuracy: 0.9369
+Validation Loss: 0.8365, Validation Accuracy: 0.7025
+
+batch_size=32
+Epoch 1/10
+Train Loss: 0.8812, Train Accuracy: 0.5872
+Validation Loss: 0.7624, Validation Accuracy: 0.6913
+--------------------------------------------------
+Epoch 2/10
+Train Loss: 0.6862, Train Accuracy: 0.7147
+Validation Loss: 0.6502, Validation Accuracy: 0.7250
+--------------------------------------------------
+Epoch 3/10
+Train Loss: 0.5360, Train Accuracy: 0.7847
+Validation Loss: 0.6525, Validation Accuracy: 0.7462
+--------------------------------------------------
+Epoch 4/10
+Train Loss: 0.3920, Train Accuracy: 0.8525
+Validation Loss: 0.7232, Validation Accuracy: 0.7163
+--------------------------------------------------
+Epoch 5/10
+Train Loss: 0.2827, Train Accuracy: 0.9038
+Validation Loss: 0.8132, Validation Accuracy: 0.6975
+--------------------------------------------------
+Epoch 6/10
+Train Loss: 0.1873, Train Accuracy: 0.9478
+Validation Loss: 0.8103, Validation Accuracy: 0.7087
+--------------------------------------------------
+Epoch 7/10
+Train Loss: 0.1770, Train Accuracy: 0.9487
+Validation Loss: 0.8199, Validation Accuracy: 0.7037
+--------------------------------------------------
+Epoch 8/10
+Train Loss: 0.1635, Train Accuracy: 0.9522
+Validation Loss: 0.8135, Validation Accuracy: 0.7113
+--------------------------------------------------
+Epoch 9/10
+Train Loss: 0.1544, Train Accuracy: 0.9572
+Validation Loss: 0.8223, Validation Accuracy: 0.7113
+--------------------------------------------------
+Epoch 10/10
+Train Loss: 0.1470, Train Accuracy: 0.9569
+Validation Loss: 0.8284, Validation Accuracy: 0.7150
+
+batch_size=64
+Epoch 1/5
+Train Loss: 0.9102, Train Accuracy: 0.5803
+Validation Loss: 0.8318, Validation Accuracy: 0.6088
+--------------------------------------------------
+Epoch 2/5
+Train Loss: 0.7668, Train Accuracy: 0.6650
+Validation Loss: 0.6886, Validation Accuracy: 0.7200
+--------------------------------------------------
+Epoch 3/5
+Train Loss: 0.6227, Train Accuracy: 0.7572
+Validation Loss: 0.6604, Validation Accuracy: 0.7238
+--------------------------------------------------
+Epoch 4/5
+Train Loss: 0.5054, Train Accuracy: 0.8103
+Validation Loss: 0.6758, Validation Accuracy: 0.7262
+--------------------------------------------------
+Epoch 5/5
+Train Loss: 0.3958, Train Accuracy: 0.8528
+Validation Loss: 0.6948, Validation Accuracy: 0.7238
+--------------------------------------------------
+
+batch_size=128
+Epoch 1/10
+Train Loss: 0.9406, Train Accuracy: 0.5741
+Validation Loss: 0.8807, Validation Accuracy: 0.6038
+--------------------------------------------------
+Epoch 2/10
+Train Loss: 0.8445, Train Accuracy: 0.6034
+Validation Loss: 0.8145, Validation Accuracy: 0.6238
+--------------------------------------------------
+Epoch 3/10
+Train Loss: 0.7551, Train Accuracy: 0.6697
+Validation Loss: 0.7126, Validation Accuracy: 0.7013
+--------------------------------------------------
+Epoch 4/10
+Train Loss: 0.6543, Train Accuracy: 0.7312
+Validation Loss: 0.6847, Validation Accuracy: 0.7137
+--------------------------------------------------
+Epoch 5/10
+Train Loss: 0.5730, Train Accuracy: 0.7784
+Validation Loss: 0.6649, Validation Accuracy: 0.7262
+--------------------------------------------------
+Epoch 6/10
+Train Loss: 0.4807, Train Accuracy: 0.8184
+Validation Loss: 0.6682, Validation Accuracy: 0.7238
+--------------------------------------------------
+Epoch 7/10
+Train Loss: 0.4061, Train Accuracy: 0.8528
+Validation Loss: 0.7024, Validation Accuracy: 0.7100
+--------------------------------------------------
+Epoch 8/10
+Train Loss: 0.3307, Train Accuracy: 0.8928
+Validation Loss: 0.7411, Validation Accuracy: 0.7000
+--------------------------------------------------
+
+
+lr=1e-4
+Epoch 1/10
+Train Loss: 0.8412, Train Accuracy: 0.6247
+Validation Loss: 0.7225, Validation Accuracy: 0.6963
+--------------------------------------------------
+Epoch 2/10
+Train Loss: 0.5671, Train Accuracy: 0.7703
+Validation Loss: 0.7033, Validation Accuracy: 0.7288
+--------------------------------------------------
+Epoch 3/10
+Train Loss: 0.3329, Train Accuracy: 0.8734
+Validation Loss: 0.7583, Validation Accuracy: 0.6875
+--------------------------------------------------
+Epoch 4/10
+Train Loss: 0.1734, Train Accuracy: 0.9537
+Validation Loss: 1.0112, Validation Accuracy: 0.7025
+--------------------------------------------------
+Epoch 5/10
+Train Loss: 0.0939, Train Accuracy: 0.9741
+Validation Loss: 1.0141, Validation Accuracy: 0.7125
+
+
+lr=1e-6
+Epoch 1/10
+Train Loss: 1.0825, Train Accuracy: 0.3975
+Validation Loss: 1.0525, Validation Accuracy: 0.5400
+--------------------------------------------------
+Epoch 2/10
+Train Loss: 1.0221, Train Accuracy: 0.5228
+Validation Loss: 0.9848, Validation Accuracy: 0.6000
+--------------------------------------------------
+Epoch 3/10
+Train Loss: 0.9630, Train Accuracy: 0.5784
+Validation Loss: 0.9427, Validation Accuracy: 0.6025
+--------------------------------------------------
+Epoch 4/10
+Train Loss: 0.9324, Train Accuracy: 0.5919
+Validation Loss: 0.9220, Validation Accuracy: 0.6038
+--------------------------------------------------
+Epoch 5/10
+Train Loss: 0.9141, Train Accuracy: 0.5941
+Validation Loss: 0.9105, Validation Accuracy: 0.6038
+--------------------------------------------------
+Epoch 6/10
+Train Loss: 0.9092, Train Accuracy: 0.5956
+Validation Loss: 0.9028, Validation Accuracy: 0.6038
+--------------------------------------------------
+Epoch 7/10
+Train Loss: 0.8995, Train Accuracy: 0.5956
+Validation Loss: 0.8993, Validation Accuracy: 0.6038
+--------------------------------------------------
+Epoch 8/10
+Train Loss: 0.8953, Train Accuracy: 0.5938
+Validation Loss: 0.8941, Validation Accuracy: 0.6038
+--------------------------------------------------
+Epoch 9/10
+Train Loss: 0.8834, Train Accuracy: 0.5953
+Validation Loss: 0.8902, Validation Accuracy: 0.6038
+
+
+
+UID         PID   PPID  C STIME TTY          TIME CMD
+root          1      0  0 17:39 ?        00:00:00 bash /init/boot/boot.sh
+root       1105      1  1 17:39 ?        00:04:03 /bin/supervisord -c /init/supervisor/supervisor.ini
+root       1123   1105  0 17:39 ?        00:00:22 proxy -c /init/proxy/proxy-hot-backup.ini
+root       1125   1105  0 17:39 ?        00:01:07 /root/miniconda3/bin/python /root/miniconda3/bin/jupyter-lab --allow-root --config=/init/jup
+root       1126   1105  0 17:39 ?        00:00:00 sshd: /usr/sbin/sshd -D [listener] 0 of 10-100 startups
+root       1128   1105  0 17:39 ?        00:00:42 autopanel serve --work-dir=/root/autodl-tmp --cache-dir=/root/autodl-tmp
+root       1129   1105  0 17:39 ?        00:00:11 /root/miniconda3/bin/python /root/miniconda3/bin/tensorboard --host 0.0.0.0 --port 6007 --lo
+root       1192   1129  0 17:39 ?        00:00:06 /root/miniconda3/lib/python3.12/site-packages/tensorboard_data_server/bin/server --logdir=/r
+root       1794   1125 99 17:40 ?        09:56:59 /root/miniconda3/bin/python -m ipykernel_launcher -f /root/.local/share/jupyter/runtime/kern
+root       2173   1125  0 17:42 ?        00:00:06 /root/miniconda3/bin/python -m ipykernel_launcher -f /root/.local/share/jupyter/runtime/kern
+root       2561   1125  0 17:45 pts/0    00:00:00 /bin/bash -l
+root      31152   1125  0 22:24 ?        00:00:03 /root/miniconda3/bin/python -m ipykernel_launcher -f /root/.local/share/jupyter/runtime/kern
+root      32801   1105  2 22:39 ?        00:00:00 proxy -c /init/proxy/proxy.ini
+root      32814   2561  0 22:39 pts/0    00:00:00 ps -ef
