@@ -7,12 +7,9 @@
 ## 文件结构
 
 ```
-|-- data/                                # 数据集目录，包含训练和测试所需的文本和图像文件
-|-- bert-base-uncased/                   # BERT 预训练模型目录，包含模型配置、权重和词汇表文件
 |-- 多模态融合模型.ipynb                   # 多模态融合模型得出测试结果的实验代码
 |-- 文本模型，图像模型和多模态融合模型.ipynb   # 文本模型、图像模型和多模态融合模型的对比实验代码
 |-- check.py                             # 检查txt数据的编码格式
-|-- multimodal_model.pth                 # 训练好的多模态融合模型权重文件
 |-- train.txt                            # 训练数据，包含每个样本的GUID和标签
 |-- test_without_label.txt               # 测试数据，包含待预测的样本GUID
 |-- results.txt                          # 测试结果，包含待预测的样本GUID和标签
